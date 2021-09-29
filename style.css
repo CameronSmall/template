@@ -18,6 +18,12 @@ body,html {
 	background-color: lightblue;
 }
 header {
+	<style>
+header
+{
+    background-color:#FFFFFF;
+}
+</style>
     background: #AEC6CF;
     padding: 20px 30px;
     max-width: 940px;
